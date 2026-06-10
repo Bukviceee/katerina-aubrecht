@@ -1,12 +1,12 @@
 import Image from "next/image";
 
 const photos = [
-  { src: "/galerie/foto1.jpg", alt: "Fotografie 1" },
-  { src: "/galerie/foto2.jpg", alt: "Fotografie 2" },
-  { src: "/galerie/foto3.jpg", alt: "Fotografie 3" },
-  { src: "/galerie/foto4.jpg", alt: "Fotografie 4" },
-  { src: "/galerie/foto5.jpg", alt: "Fotografie 5" },
-  { src: "/galerie/foto6.jpg", alt: "Fotografie 6" },
+  { src: "/Galerie/foto1.jpg", alt: "Fotografie 1" },
+  { src: "/Galerie/foto2.jpg", alt: "Fotografie 2" },
+  { src: "/Galerie/foto3.jpg", alt: "Fotografie 3" },
+  { src: "/Galerie/foto4.jpg", alt: "Fotografie 4" },
+  { src: "/Galerie/foto5.jpg", alt: "Fotografie 5" },
+  { src: "/Galerie/foto6.jpg", alt: "Fotografie 6" },
 ];
 
 export default function Gallery() {
